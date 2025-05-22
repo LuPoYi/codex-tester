@@ -9,6 +9,9 @@ export default function GamesPage() {
         <li>
           <Link href="/games/joke">Joke Game</Link>
         </li>
+        <li>
+          <Link href="/games/snake">Lonely Snake</Link>
+        </li>
       </ul>
     </Layout>
   );
