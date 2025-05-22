@@ -11,6 +11,7 @@ export default function GamesPage() {
         </li>
         <li>
           <Link href="/games/minefield">Minefield Game</Link>
+          <Link href="/games/snake">Lonely Snake</Link>
         </li>
       </ul>
     </Layout>
